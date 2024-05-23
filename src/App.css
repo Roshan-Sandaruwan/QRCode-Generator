@@ -3,7 +3,7 @@
 }
 
 .App-header {
-  background-color: #fff;
+  background-color: #c2ffd9;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -50,7 +50,7 @@ span::after{
   width: 100%;
   border-left: 2px solid #000;
   animation: typing 1.5s steps(8) infinite ;
-  background: #fff;
+  background: #c2ffd9;
 }
 
 @keyframes typing{
