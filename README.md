@@ -1,3 +1,6 @@
+# Project 
+![image](https://github.com/Roshan-Sandaruwan/QRCode-Generator/assets/112076077/6664a388-d3b5-4d79-8e38-d540775b1218)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
